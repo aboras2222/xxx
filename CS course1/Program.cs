@@ -11,7 +11,7 @@ namespace CS_course1
         static void Main(string[] args)
         {
             Console.WriteLine("ENG.Abouras");
-            Console.ReadKey();
+           // Console.ReadKey();
         }
     }
 }
